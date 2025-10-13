@@ -51,6 +51,11 @@ class Child extends Parent{
 	void child() {
 		System.out.println("Child class");
 	}
+
+	public void c() {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
 
