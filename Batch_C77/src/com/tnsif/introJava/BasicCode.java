@@ -1,4 +1,4 @@
-package introJava;
+package com.tnsif.introJava;
 
 
 public class BasicCode {

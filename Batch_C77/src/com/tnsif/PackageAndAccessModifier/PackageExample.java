@@ -1,4 +1,4 @@
-package PackageAndAccessModifier;
+package com.tnsif.PackageAndAccessModifier;
 
 public class PackageExample {
 	

@@ -1,4 +1,4 @@
-package WrapperClass;
+package com.tnsif.WrapperClass;
 //Wrapper Class = “a box that holds a simple toy (primitive value) so Java can treat it like a big object.”
 public class WrapperClassDemo {
 	public static void main(String[] args) {

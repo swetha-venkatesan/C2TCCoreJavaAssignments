@@ -1,6 +1,6 @@
 package com.tnsif.PackageDemo;
 
-import PackageAndAccessModifier.PackageExample;
+import com.tnsif.PackageAndAccessModifier.PackageExample;
 
 public class PackageMain {
 

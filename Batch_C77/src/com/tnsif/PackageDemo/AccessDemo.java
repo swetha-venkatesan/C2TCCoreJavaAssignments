@@ -1,6 +1,6 @@
 package com.tnsif.PackageDemo;
 
-import PackageAndAccessModifier.AccessModifier;
+import com.tnsif.PackageAndAccessModifier.AccessModifier;
 
 public class AccessDemo {
 	public static void main(String[] args) {
