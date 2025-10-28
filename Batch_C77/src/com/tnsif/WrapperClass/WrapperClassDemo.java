@@ -16,6 +16,6 @@ public class WrapperClassDemo {
 	}
 
 }
-//🔹 Wrapper Class lets you turn simple values into objects.
+//🔹 Wrapper Class lets you turn primitive data type into objects and vice versa.
 //🔹 Autoboxing = put primitive in a wrapper.
 //🔹 Unboxing = take primitive out of a wrapper.
