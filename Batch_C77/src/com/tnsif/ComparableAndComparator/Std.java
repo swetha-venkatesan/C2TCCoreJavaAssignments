@@ -32,6 +32,7 @@ public class Std {
 	}
 	
 	public String toString() {
+		return name;
 		
 		
 		
